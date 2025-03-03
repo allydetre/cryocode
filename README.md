@@ -12,3 +12,7 @@ Plotting:
 - ggplot
 - plotly (live plotting)
 - patchwork
+
+
+Github repositories with our code:
+- snotelprocessr (processing SNOTEL station data) - https://github.com/allydetre/snotelprocessr
