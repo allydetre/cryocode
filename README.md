@@ -1,7 +1,9 @@
-# cryolabr
-R tools, scripts, packages for the Cryolab
+# cryocode
+
+Tools, scripts, packages for the Cryolab (R, Python, Matlab)
 
 
+## R
 List of packages we like to use:
 
 Data wrangling:
@@ -13,6 +15,9 @@ Plotting:
 - plotly (live plotting)
 - patchwork
 
-
 Github repositories with our code:
 - snotelprocessr (processing SNOTEL station data) - https://github.com/allydetre/snotelprocessr
+
+## Python
+
+## Matlab
